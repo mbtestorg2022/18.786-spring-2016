@@ -21,7 +21,7 @@ Local Class Field Theory
 *   Serre, Jean-Pierre. _Local Fields_. Vol. 67. New York, NY: Springer, 2013. ISBN: 9781475756739.  
         A classic reference that rewards the effort you put into it. It begins with the structure theory of local fields, develops group cohomology from scratch, and then proves the main theorem of local class field theory. Unfortunately, this book does not do the work of plainly laying bare its main threads, so requires some patience for self-study.
 *   Fesenko, I. B., and S. V. Vostokov. _Local Fields and Their Extensions_. Providence, RI: American Mathematical Society, 2002. ISBN: 9780821832592.  
-        A newer reference, with updates on the developments of the subject since Serre. Very detailed, with many exercises. An ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[online version (PDF)](https://www.maths.nottingham.ac.uk/personal/ibf/book/vol.pdf) is also available.
+        A newer reference, with updates on the developments of the subject since Serre. Very detailed, with many exercises. An [online version (PDF)](https://www.maths.nottingham.ac.uk/personal/ibf/book/vol.pdf) is also available.
 
 Class Field Theory (Local and Global)
 -------------------------------------
@@ -32,7 +32,7 @@ Class Field Theory (Local and Global)
         Notes from an instructional conference, developing the whole theory more or less from scratch. Notes available from many different authors. The quality sometimes varies, but is often high. In particular, Serre and Tate contribute the notes on local and global class field theory respectively, and generally speaking, anything written by either of them is required reading.
 *   Weil, André. _Basic Number Theory_. Vol. 144. New York, NY: Springer, 2013. ISBN: 9781461298366.  
         Another classic text. It gives a cohomological treatment of class field theory without every saying the words, which is both a bug and a feature. It is the only source I know with a detailed approach to the proof of the main global theorem via zeta functions.
-*   Milne, James. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Class Field Theory_ (PDF)](http://www.jmilne.org/math/CourseNotes/CFT.pdf)  
+*   Milne, James. [_Class Field Theory_ (PDF)](http://www.jmilne.org/math/CourseNotes/CFT.pdf)  
         These pleasantly written notes, which cover the subject in detail, are a solid reference for most of the ideas of class field theory.
 
 Texts by Neukirch

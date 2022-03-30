@@ -24,7 +24,7 @@ SOLUTIONS
 [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_786s16_pset1)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit18_786s16_pset1_sol)
+[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit18_786s16_pset1_sol)
 {{< tdclose >}}
 
 {{< trclose >}}
